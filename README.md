@@ -3,6 +3,10 @@
   Profile README for github.com/mrogow24
   Put this file at:  mrogow24/mrogow24/README.md  (repo name must match your username, set to Public)
 -->
+<!--
+  Profile README for github.com/mrogow24
+  Put this file at:  mrogow24/mrogow24/README.md  (repo name must match your username, set to Public)
+-->
 
 <div align="center">
 
@@ -41,9 +45,11 @@ The source for these is private. Links go to the live products.
 
 | Project | What it is | Stack (high level) |
 |---|---|---|
-| **[Script Timer AI](https://script-timer.com)** · [app](https://app.script-timer.com) | Words-to-time calculator that grew into a full script tool: 100+ AI voices, voice cloning, hook grader, script doctor, pace map, AI rewrite. Free tier + paid plans. Peaked at ~50K visitors/month. | WordPress marketing site · web app on Vercel · voice layer on the ElevenLabs API |
+| **[Script Timer — website](https://script-timer.com)** | Marketing site for Script Timer AI: words-to-time calculator, plans, and specialized landing pages for school presentations, podcasts, sermons, and public speaking. Peaked at ~50K visitors/month. | WordPress |
+| **[Script Timer AI — app](https://app.script-timer.com)** | The product. 100+ AI voices, voice cloning, hook grader, script doctor, pace map, AI rewrite. Free tier + paid plans. | Web app on Vercel · voice layer on the ElevenLabs API |
 | **[SDI — Sales Differentiation Index](https://sdi.ripmediagroup.com)** | Free competitive story analyzer. Drop in your site plus competitor URLs, get a differentiation score and messaging gap analysis in ~15 seconds. No signup. | Static app · AI analysis backend |
-| **[MedLaser Outlet](https://medlaseroutlet.co)** · [app](https://app.medlaseroutlet.co/) | Certified pre-owned aesthetic laser marketplace for med spas and clinics, plus free practice-intelligence tools: ROI calculator and a competitive gap report that compares your treatment menu against nearby competitors. | Marketing site + separate web app |
+| **[MedLaser Outlet — website](https://medlaseroutlet.co)** | Certified pre-owned aesthetic laser marketplace for med spas and clinics. Inspected, OEM-spec devices with free ROI calculators for buyers. | Marketing site |
+| **[MedLaser Outlet — app](https://app.medlaseroutlet.co/)** | Competitive Intelligence Report. A practice enters its location and treatment menu; the app compares it against nearby competitors and flags the service gaps costing them clients. | Web app |
 | **[Membership Benefits Club](https://membershipbenefits.club)** | Retention layer for community owners on Skool, Circle, Mighty Networks and similar: 30–80% off 400+ tools, branded job boards, and industry event feeds, delivered by embed or API. | Embeddable widgets · API + Google Sheets integrations |
 | **[Rip Media Group](https://ripmediagroup.com)** | The agency site. Story · Assets · Machine methodology, education, advisory, and full execution. | WordPress + Elementor · Netlify |
 | **[mauryrogow.com](https://mauryrogow.com)** | Press kit: speaking, consulting, training, the book, and media samples. | Static site |
