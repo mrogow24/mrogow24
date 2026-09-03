@@ -54,10 +54,34 @@ The source for these is private. Links go to the live products.
 
 ## How I build
 
-- **Story first.** Every tool above started as a sales or positioning problem, not a tech idea.
-- **Ship the smallest useful thing.** SDI is one input box and a score. Script Timer was a words-to-time calculator before it was anything else.
-- **Automate the follow-through.** Quizzes and calculators feed straight into email sequences (Make → Brevo) so the tool does the selling.
-- **AI where it earns its keep.** Voice generation, script analysis, competitive messaging audits. Not AI for the sake of it.
+<div align="center">
+
+<b>Story · Assets · Machine</b> — the same three moves behind every product above.
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h1>S</h1>
+      <h3>Story</h3>
+      <p><b>Story first.</b></p>
+      <p>Every tool above started as a sales or positioning problem, not a tech idea. If the buyer doesn't get it in one line, nothing downstream matters.</p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h1>A</h1>
+      <h3>Assets</h3>
+      <p><b>Ship the smallest useful thing.</b></p>
+      <p>SDI is one input box and a score. Script Timer was a words-to-time calculator before it was anything else. Build the asset that proves the story, then expand.</p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h1>M</h1>
+      <h3>Machine</h3>
+      <p><b>Automate the follow-through.</b></p>
+      <p>Quizzes and calculators feed straight into email sequences (Make → Brevo) so the tool does the selling. AI where it earns its keep: voice generation, script analysis, competitive audits. Not AI for the sake of it.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
