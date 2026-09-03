@@ -18,6 +18,7 @@ I build the story, the assets, and the machine that turns them into revenue.
 [![Script Timer](https://img.shields.io/badge/Script%20Timer%20AI-SaaS-7FD1A8?style=flat-square)](https://script-timer.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauryrogow/)
 [![IMDb](https://img.shields.io/badge/IMDb-producer%20credits-F5C518?style=flat-square&logo=imdb&logoColor=black)](https://www.imdb.com/name/nm2347931/)
+[![Vimeo](https://img.shields.io/badge/Vimeo-video%20work-1AB7EA?style=flat-square&logo=vimeo&logoColor=white)](https://vimeo.com/ripmediagroup)
 
 </div>
 
@@ -49,6 +50,20 @@ The source for these is private. Links go to the live products.
 | **[Membership Benefits Club](https://membershipbenefits.club)** | Retention layer for community owners on Skool, Circle, Mighty Networks and similar: 30–80% off 400+ tools, branded job boards, and industry event feeds, delivered by embed or API. | Embeddable widgets · API + Google Sheets integrations |
 | **[Rip Media Group](https://ripmediagroup.com)** | The agency site. Story · Assets · Machine methodology, education, advisory, and full execution. | WordPress + Elementor · Netlify |
 | **[mauryrogow.com](https://mauryrogow.com)** | Press kit: speaking, consulting, training, the book, and media samples. | Static site |
+
+---
+
+## Video work
+
+Before the software, the story was told on screen. 1,000+ videos and 3 feature films produced for brands including Cisco, Comcast/NBCUniversal, Kaiser Permanente, Biogen, Amgen, Stanford, and Harvard — explainers, brand films, launch campaigns, and corporate storytelling.
+
+<div align="center">
+
+[![Watch the reel on Vimeo](https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20work-vimeo.com%2Fripmediagroup-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/ripmediagroup)
+
+Feature film credits on [IMDb](https://www.imdb.com/name/nm2347931/)
+
+</div>
 
 ---
 
