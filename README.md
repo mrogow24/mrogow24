@@ -3,10 +3,6 @@
   Profile README for github.com/mrogow24
   Put this file at:  mrogow24/mrogow24/README.md  (repo name must match your username, set to Public)
 -->
-<!--
-  Profile README for github.com/mrogow24
-  Put this file at:  mrogow24/mrogow24/README.md  (repo name must match your username, set to Public)
--->
 
 <div align="center">
 
